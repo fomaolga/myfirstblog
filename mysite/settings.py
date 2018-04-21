@@ -25,7 +25,7 @@ SECRET_KEY = '=rka2yj8m*-$3@6-&-5e4(ex3e5vim=mh6_bmu_aru+=io%%n6'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','olga.pythonanywher.com' ]
+ALLOWED_HOSTS = ['127.0.0.1','olgafoma.pythonanywhere.com' ]
 
 
 # Application definition
